@@ -1,1 +1,3 @@
 redirectTo https://knowbooks.com
+permalink index.html
+buildHtml
